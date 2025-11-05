@@ -13,3 +13,8 @@ An AI-powered customer support chatbot designed to deliver instant, accurate ans
 - Interactive Streamlit UI for live Q&A
 - CSV-based FAQ management and updates
 - Lightweight and easily deployable app
+
+
+**Output**
+
+https://drive.google.com/file/d/1talDW9UhPlmtVaEBEzLmFyTeA33nXQhw/view
